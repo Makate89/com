@@ -15,7 +15,7 @@ currently being supported with security updates.
 ## Reporting a Vulnerability
 
 To help us Improve our website , please report any suspicious activity.
-For immediate responce call +27766476763 (SA)  or +26774021453 (BW)
+For immediate responce call  +26775195237 (BW)
 drop us an email at: meshlero.company@gmail.com
 Remember that Mesh Lero is a world company of Caliber that bring development to world communities, so dont wait to report any fishing.
 Mesh-Lero Pty Ltd 
