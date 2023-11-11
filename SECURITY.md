@@ -1,6 +1,9 @@
 
 # Security Policy
-Mesh Lero E Government Projects and Technologies and Mesh Lero Technologies Store with its Applications and Tools are open and licensed under MLRU REMOTE UTILITIES LICENSE ACT OF 2016 Version 5.1.x and version 4.1.x
+Mesh Lero E Government Projects and Technologies and Mesh Lero Technologies Store with its Applications and Tools are open and licensed under MLRU REMOTE UTILITIES Application ACT OF 2016 Version 5.1.x and version 4.1.x of GNU LESSER GENERAL PUBLIC LICENSE VERSION 2.11, February 1999
+Our Version of our products are currently being supported with security updates of updated versions.
+The easiest way to get help is through Mesh Lero E Government Projects and technologies with its store Mesh Lero Technologies Store.
+
 ML REMOTE UTILITIES (MLRU) 
 END USER LICENSE AGREEMENT 
   
