@@ -145,8 +145,8 @@ currently being supported with security updates.
 ## Reporting a Vulnerability
 
 To help us Improve our website , please report any suspicious activity. Join our workspace at https://meshlero.slack.com and get our consultant to help you technically.
-For immediate responce call our Toll Free Number  +26775195237 
-drop us an email at: onechatgroup@gmail.com. Our Panel of experts will respond immediately
+For immediate responce call our Toll Free Number  +26775195237. 
+drop us an email at: onechatgroup@gmail.com. Our Panel of experts will respond immediately.
 Remember that Mesh Lero E Government Projects and  Technologies with Mesh Lero Technologies Store is a world company of Caliber that bring development to world communities, so dont wait to report any fishing.
 
 
